@@ -38,15 +38,11 @@ Crie um arquivo `.env` na raiz do projeto:
 OPENAI_API_KEY=sua-chave-aqui
 ```
 
-4. Execute o aplicativo:
-```bash
-python app.py
-```
+4. Execute as células do notebook:
+
 
 5. Acesse no navegador:
-```
-http://localhost:7860
-```
+
 
 ## 💡 Exemplos de Uso
 
