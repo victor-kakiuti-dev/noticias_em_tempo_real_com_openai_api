@@ -22,7 +22,7 @@ Um chatbot inteligente que busca e resume notícias da internet utilizando web s
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/victor-kakiuti-dev/noticias_em_tempo_real_com_openai_api
+git clone victor-kakiuti-dev\noticias_em_tempo_real_com_openai_api.git
 cd chatbot-noticias
 ```
 
